@@ -44,7 +44,6 @@ Driven Cloud & DevOps Engineer with hands-on experience in Linux administration,
 
 ###  Verified Certifications
 
-*  **[Microsoft Certified: Azure Administrator Associate (AZ-104)](https://learn.microsoft.com/en-us/users/kalyanvoleti-7216/credentials/7071b19ddde41b51)** — *Microsoft (Aug 2026)*
 *  **[AWS Certified Cloud Practitioner (CLF-C02)](https://www.credly.com/badges/cc523d79-5071-49f6-88c9-4a2602ff46de/public_url)** — *Amazon Web Services (Jul 2025)*
 *  **[Microsoft Certified: Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/users/kalyanvoleti-7216/credentials/5798ef64816e6925)** — *Microsoft (Jun 2025)*
 
